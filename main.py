@@ -2,6 +2,7 @@
 PowerOfTen
 """
 # Provide your solution here
+print("My solution...")
 
 
 """
